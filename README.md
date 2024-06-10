@@ -16,6 +16,7 @@ Auto Refuel is a web application designed to facilitate the online ordering and 
 - **Tailwind CSS**: For styling and designing the frontend.
 - **Prisma**: As an ORM for handling database operations.
 - **TypeScript**: For adding static type definitions to JavaScript.
+- **MongoDB**: For Database 
 
 ## Installation
 
@@ -27,7 +28,7 @@ Auto Refuel is a web application designed to facilitate the online ordering and 
 
 2. **Install dependencies**
    ```bash
-   npm install
+   pnpm install
    ```
 
 3. **Set up environment variables**
@@ -36,7 +37,7 @@ Auto Refuel is a web application designed to facilitate the online ordering and 
 
 4. **Run the development server**
    ```bash
-   npm run dev
+   pnpm  dev
    ```
 
 ## Usage
